@@ -1,0 +1,23 @@
+wget https://github.com/aquasecurity/trivy/releases/download/v0.66.0/trivy_0.66.0_Linux-64bit.deb 
+sudo dpkg -i trivy_0.66.0_Linux-64bit.deb
+sudo apt install trivy 
+trivy --version
+trivy image python:3.4
+
+wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz 
+tar xvfz pentbox-1.8.tar.gz
+cd pentbox-1.8
+honeypot
+
+https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool
+https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.12.0.jar
+wget paste 
+reverse enggg
+
+
+#Openssl 
+sudo apt install openssl
+sudo apt install pwgen
+
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+nessus
